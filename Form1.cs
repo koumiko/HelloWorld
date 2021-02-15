@@ -16,5 +16,10 @@ namespace 데브연습2
         {
             InitializeComponent();
         }
+        
+        public void song()
+        {
+        }
+        
     }
 }
